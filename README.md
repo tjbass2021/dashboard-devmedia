@@ -1,3 +1,13 @@
+# Dashboard Devmedia
+
+---
+
+Projeto desenvolvido no curso 'Desenvolvendo minha primeira SPA' da [Devmedia](https://www.devmedia.com.br/).
+Todo o conteúdo é de autoria da Devmedia, cabendo a mim apenas colocar o exercício em prática para o entendendimento dos conceitos envolvidos no desenvolvimento com React.
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
